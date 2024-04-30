@@ -2,7 +2,7 @@
 family = "0xProto Nerd Font"
 
 [window]
-decorations = "transparent"
+decorations = "full"
 
 
 
