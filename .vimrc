@@ -27,6 +27,7 @@ nnoremap <C-k> <C-w>k
 nnoremap <C-h> <C-w>h
 nnoremap <C-l> <C-w>l
 
+set mouse=a "enable cursor
 set softtabstop=2 "when I click tab button it indent 2
 set shiftwidth=2 "using < in visual mode
 set expandtab "makes the tab into space
